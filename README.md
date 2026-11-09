@@ -5,7 +5,7 @@ If you don't have access to this repository, request access from a committee mem
 
 To upload your code on here:
 - Create a branch called your name
-- Create a new folder thats labelled: {yourName}_id{robotBoardNumber}_{anyOtherContext}
+- Create a new folder thats labelled: {yourName}\_id{robotBoardNumber}\_{anyOtherContext}
   - {yourName} should be replaced with your first and last name, if you do not wish to label the folder with your name that is fine, preferably name it something identifiable
   - {robotBoardNumber} is a number that should be labelled on your robot board, preceded by a #
   - {anyOtherContext} is any detail you want to add onto the end
